@@ -1,4 +1,4 @@
-Sistema de Mercado com Compra e Venda
+Sistema de Mercado com Recebimento e Venda de produtos.
 Descrição: Este sistema de mercado simula um ambiente simples de recebimento/venda, onde o usuário pode receber produtos e realizar vendas, com o controle do estoque sendo feito através de um arquivo CSV. 
 O sistema é operado diretamente pelo terminal, utilizando as setas do teclado para navegar pelas opções e interagir com o programa.
 
