@@ -13,3 +13,5 @@ Requisitos:
 O sistema é executado diretamente no terminal, sem interface gráfica.
 A navegação entre as opções de recebimento e venda é feita com as setas do teclado.
 Rickrolling: Fique atento a surpresas enquanto o sistema ainda está em desenvolvimento! Se você entrar em uma parte não finalizada, você será presenteado com uma música que é uma verdadeira pegadinha.
+
+OBS: Quando você entrar em uma parte não finalizada, é melhor abrir o cmd e digitar "shutdown -a" pra cancelar o desligamento (programado pra alguns segundos depois de abrir o vídeo).
